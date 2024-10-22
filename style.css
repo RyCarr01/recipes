@@ -1,7 +1,12 @@
-div {
+body {
     padding: 30px;
     text-align: center;
     margin-bottom: 100px;
+}
+
+.title {
+    font: Serif;
+    text-align: center;
 }
 
 .head {
